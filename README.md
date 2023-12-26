@@ -14,3 +14,10 @@ Skills : torch, python, ubuntu20.04LTS, huggingface
 
 2) StyleGAN2 : Analyzing and Improving the Image Quality of StyleGAN
 https://velog.io/@minjung-s/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0StyleGAN2-Analyzing-and-Improving-the-Image-Quality-of-StyleGAN
+
+Installation:
+1.pip install -r requirements.txt
+
+2.model 다운로드 Google Drive URL:https://drive.google.com/file/d/1DRWreJAAvaRv1g_OGqKriFoBYK86IqoP/view?usp=drive_link
+
+3.python.infer.py ./models/BIAS.pth
